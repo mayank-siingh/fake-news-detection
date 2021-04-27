@@ -1,2 +1,2 @@
 # fake-news-detection
-A simple model to which filters fake news efficiently upto 99.4% accuracy.
+A project where I learned about some basic NLP stuffs and created models for predicting fake news.
